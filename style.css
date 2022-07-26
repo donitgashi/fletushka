@@ -1,6 +1,6 @@
 img{
-  width: 900px  ;
-  height:1800px;
+  width: 400px  ;
+  height:900px;
 }
 @media (max-width: 480px) {
   img {

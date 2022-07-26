@@ -1,0 +1,11 @@
+body{
+  width: 1125px;
+  height:2436px;
+}
+@media (max-width: 480px) {
+  img {
+    background-image: url(fletushka_shqip.jpg);
+    background-repeat: no-repeat;
+    background-size: contain ;
+  }
+}
